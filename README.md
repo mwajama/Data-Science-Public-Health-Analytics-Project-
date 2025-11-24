@@ -2,7 +2,7 @@
 This repository contains a comprehensive data science project analyzing HIV burden, multidimensional poverty, and child mortality trends using global datasets from WHO, the World Bank, and the UN Inter-agency Group for Child Mortality Estimation.
 The analysis focuses on long-term trends, regional disparities, and socioeconomic factors influencing health outcomes.
 
-🧾 Project Overview
+ Project Overview
 
 This project investigates three major public health themes:
 
@@ -22,15 +22,7 @@ Investigated socioeconomic indicators including:
 
 Income
 
-Education level
-
-School enrollment
-
-Access to electricity
-
-Sanitation
-
-Drinking water
+Education level, School enrollment, Access to electricity, Sanitation, Drinking water
 
 Applied mixed-effects models (lme4) to account for random effects of country and year.
 
@@ -44,14 +36,6 @@ Created geospatial visualizations using GADM shapefiles.
 
 Mapped latest national estimates for:
 
-Under-five mortality
-
-Neonatal mortality
-
-Produced trend plots showing:
-
-Average regional trajectories
-
-Country-level point estimates over time
+Under-five mortality, Neonatal mortality, Produced trend plots showing:, Average regional trajectories, Country-level point estimates over time
 
 Identified countries with the highest mortality levels.
