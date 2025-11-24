@@ -22,7 +22,7 @@ Investigated socioeconomic indicators including:
 
 Income
 
-Education level, School enrollment, Access to electricity, Sanitation, Drinking water
+Education level, School enrollment, Access to electricity, Sanitation and Drinking water
 
 Applied mixed-effects models (lme4) to account for random effects of country and year.
 
@@ -36,6 +36,6 @@ Created geospatial visualizations using GADM shapefiles.
 
 Mapped latest national estimates for:
 
-Under-five mortality, Neonatal mortality, Produced trend plots showing:, Average regional trajectories, Country-level point estimates over time
+Under-five mortality, Neonatal mortality, Produced trend plots showing:, Average regional trajectories and Country-level point estimates over time
 
 Identified countries with the highest mortality levels.
